@@ -1,0 +1,2 @@
+# CalcErrorDetector
+HackClub Project
